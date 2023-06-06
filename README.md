@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jingqi DOU</h1>
-<h3 align="center">A passionate frontend & software developer from China, currently living in Australia</h3>
+<h3 align="center">A passionate frontend & software developer from China, currently living in Australia. Student at the Australian National University, majoring in Bachelor of Information Technology. Passionate in Web & Frontend Development. Demonstrates exceptional self-management skills while successfully completing independent projects, while also excelling in collaborative teamwork environments. Continuously pursue professional development and remain up-to-date with the latest advancements in technology during periods of stability.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoValentine)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoValentine)](https://github.com/anuraghazra/github-readme-stats) -->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
