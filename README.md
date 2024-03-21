@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jingqi DOU</h1>
 <h3 align="left">A passionate frontend & software developer from China, currently living in Australia. Student at the Australian National University, majoring in Bachelor of Information Technology. Passionate in Web & Frontend Development. Demonstrates exceptional self-management skills while successfully completing independent projects, while also excelling in collaborative teamwork environments. Continuously pursue professional development and remain up-to-date with the latest advancements in technology during periods of stability.</h3>
-![:name](https://count.getloli.com/get/@:name)
+![:name](https://count.getloli.com/get/@LorenzoValentine)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
