@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jingqi DOU</h1>
-<h4 align="left">
+<h3 align="left">
 As a student majoring in Information Technology at the Australian National University, I have a profound passion for software and front-end development. With a solid foundation in data structures and algorithms, coupled with proficiency in multiple programming languages and development tools, I am well-equipped to tackle diverse tasks efficiently. <br>
 Project management and teamwork are among my strong suits. I prioritize communication and collaboration to ensure smooth project progress. Through active engagement with team members and effective communication, I have successfully implemented numerous innovative solutions, demonstrating remarkable patience and efficiency.<br>
 I look forward to interacting with fellow developers on GitHub, sharing knowledge and experiences, and collectively enhancing our skillsets. Let's embark on this exciting journey of continuous learning and growth together.
-</h4>
+</h3>
 
 **Profile Views**<br>
 <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
