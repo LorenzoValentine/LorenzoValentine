@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jingqi DOU</h1>
-<h3 align="left">A passionate frontend & software developer from China, currently living in Australia. Student at the Australian National University, majoring in Bachelor of Information Technology. Passionate in Software & Frontend Development. Demonstrates exceptional self-management skills while successfully completing independent projects, while also excelling in collaborative teamwork environments. Continuously pursue professional development and remain up-to-date with the latest advancements in technology during periods of stability.</h3>
+<h4 align="left">
+As a student majoring in Information Technology at the Australian National University, I have a profound passion for software and front-end development. With a solid foundation in data structures and algorithms, coupled with proficiency in multiple programming languages and development tools, I am well-equipped to tackle diverse tasks efficiently. <br>
+Project management and teamwork are among my strong suits. I prioritize communication and collaboration to ensure smooth project progress. Through active engagement with team members and effective communication, I have successfully implemented numerous innovative solutions, demonstrating remarkable patience and efficiency.<br>
+I look forward to interacting with fellow developers on GitHub, sharing knowledge and experiences, and collectively enhancing our skillsets. Let's embark on this exciting journey of continuous learning and growth together.
+</h4>
+
+**Profile Views**<br>
 <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
 
 <!--START_SECTION:waka-->
