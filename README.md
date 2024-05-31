@@ -9,7 +9,7 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-754.7%20thousand%20lines%20of%20code-blue)
 
@@ -52,18 +52,18 @@ Sunday                   141 commits         ██████░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-C++                      4 hrs 12 mins       ███████████████░░░░░░░░░░   58.38 % 
-Markdown                 2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+C++                      4 hrs 15 mins       ███████████████░░░░░░░░░░   58.62 % 
+Markdown                 2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   36.00 % 
+Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 13 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 3 mins        █████████████████████░░░░   83.92 % 
-Mac                      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Windows                  6 hrs 5 mins        █████████████████████░░░░   84.01 % 
+Mac                      1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 ```
 
 **I Mostly Code in Java** 
@@ -79,7 +79,7 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2024 14:05:05 UTC
+ Last Updated on 31/05/2024 14:04:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
