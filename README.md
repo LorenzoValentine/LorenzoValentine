@@ -17,6 +17,8 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 
 > 📦 132.5 kB Used in GitHub's Storage 
  > 
+> 🏆 62 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 14 Public Repositories 
@@ -50,14 +52,14 @@ Sunday                   141 commits         ██████░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-C++                      2 hrs 11 mins       █████████████████████████   99.97 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+C++                      2 mins              █████████████████████████   98.48 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -73,7 +75,7 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/06/2024 14:04:26 UTC
+ Last Updated on 05/06/2024 14:05:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
