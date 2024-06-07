@@ -52,14 +52,13 @@ Sunday                   141 commits         ██████░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-C++                      2 mins              █████████████████████████   98.48 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -75,7 +74,7 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2024 14:05:23 UTC
+ Last Updated on 07/06/2024 14:04:26 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
