@@ -9,8 +9,6 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%203%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-754.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -25,42 +23,6 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                71 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-🌆 Daytime                210 commits         ██████████░░░░░░░░░░░░░░░   38.11 % 
-🌃 Evening                258 commits         ████████████░░░░░░░░░░░░░   46.82 % 
-🌙 Night                  12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Tuesday                  82 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-Wednesday                79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Thursday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-Friday                   9 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Saturday                 110 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Sunday                   141 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
@@ -74,7 +36,7 @@ Rust                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2024 14:04:49 UTC
+ Last Updated on 15/06/2024 14:04:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
