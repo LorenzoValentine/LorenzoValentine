@@ -9,6 +9,8 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2053%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-770.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -23,6 +25,48 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+🌆 Daytime                233 commits         ██████████░░░░░░░░░░░░░░░   38.51 % 
+🌃 Evening                281 commits         ████████████░░░░░░░░░░░░░   46.45 % 
+🌙 Night                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Tuesday                  82 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Thursday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Friday                   14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Saturday                 118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Sunday                   176 commits         ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+C#                       15 hrs 37 mins      ████████████████░░░░░░░░░   63.83 % 
+UnityYaml                4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+USS                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+UXML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+XML                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+
+🔥 Editors: 
+Jetbrainsrider           24 hrs 16 mins      █████████████████████████   99.12 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+
+💻 Operating System: 
+Windows                  24 hrs 20 mins      █████████████████████████   99.37 % 
+Mac                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -36,7 +80,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2024 14:04:47 UTC
+ Last Updated on 25/07/2024 14:04:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
