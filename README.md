@@ -52,17 +52,13 @@ Sunday                   176 commits         ███████░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-UnityYaml                2 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.57 % 
-C#                       2 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.14 % 
-UXML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-USS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Jetbrainsrider           4 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -78,7 +74,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2024 14:04:56 UTC
+ Last Updated on 30/07/2024 14:04:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
