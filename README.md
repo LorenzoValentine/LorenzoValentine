@@ -9,7 +9,7 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-809%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-815%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-796.8%20thousand%20lines%20of%20code-blue)
 
@@ -52,13 +52,17 @@ Sunday                   176 commits         ███████░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 hrs 6 mins        ███████████████░░░░░░░░░░   58.26 % 
+WXSS                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+SCSS                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+WXML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 5 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -74,7 +78,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2024 14:04:48 UTC
+ Last Updated on 03/08/2024 14:05:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
