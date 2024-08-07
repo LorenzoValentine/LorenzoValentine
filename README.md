@@ -9,7 +9,7 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-797.0%20thousand%20lines%20of%20code-blue)
 
@@ -52,17 +52,17 @@ Sunday                   176 commits         ███████░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-JavaScript               4 hrs 8 mins        ██████████████░░░░░░░░░░░   57.76 % 
-WXSS                     1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   26.22 % 
-SCSS                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
-WXML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+JavaScript               5 hrs 19 mins       ████████████████░░░░░░░░░   63.81 % 
+WXSS                     1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+SCSS                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+WXML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-WebStorm                 7 hrs 9 mins        █████████████████████████   100.00 % 
+WebStorm                 8 hrs 21 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      8 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +78,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2024 14:04:41 UTC
+ Last Updated on 07/08/2024 14:04:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
