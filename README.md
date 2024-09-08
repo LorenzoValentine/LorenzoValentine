@@ -9,8 +9,6 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2018%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-812.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -25,42 +23,6 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                80 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-🌆 Daytime                264 commits         ██████████░░░░░░░░░░░░░░░   39.29 % 
-🌃 Evening                304 commits         ███████████░░░░░░░░░░░░░░   45.24 % 
-🌙 Night                  24 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
-Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Thursday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Friday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
-Saturday                 126 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Sunday                   211 commits         ████████░░░░░░░░░░░░░░░░░   31.40 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-HTML                     3 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -74,7 +36,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2024 14:04:36 UTC
+ Last Updated on 08/09/2024 14:04:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
