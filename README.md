@@ -9,7 +9,7 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-812.5%20thousand%20lines%20of%20code-blue)
 
@@ -52,14 +52,19 @@ Sunday                   211 commits         ████████░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-HTML                     3 mins              ████████████████░░░░░░░░░   62.49 % 
-Java                     2 mins              █████████░░░░░░░░░░░░░░░░   37.51 % 
+Python                   1 hr 1 min          ███████████████░░░░░░░░░░   58.10 % 
+YAML                     16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Other                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+PyCharm                  52 mins             █████████████░░░░░░░░░░░░   50.14 % 
+VS Code                  52 mins             ████████████░░░░░░░░░░░░░   49.86 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Windows                  1 hr 40 mins        ████████████████████████░   94.89 % 
+Mac                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -75,7 +80,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2024 14:04:57 UTC
+ Last Updated on 11/09/2024 14:04:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
