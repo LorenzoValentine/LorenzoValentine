@@ -6,7 +6,8 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 </h3>
 
 **Profile Views**<br>
-<img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" />
+<img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" theme="rule34" />
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-826%20hrs%2026%20mins-blue)
