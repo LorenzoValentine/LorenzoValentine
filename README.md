@@ -12,19 +12,19 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-841%20hrs%2017%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-812.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-392.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 133.0 kB Used in GitHub's Storage 
+> 📦 130.1 kB Used in GitHub's Storage 
  > 
-> 🏆 137 Contributions in the Year 2024
+> 🏆 136 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -37,11 +37,11 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+Monday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
 Wednesday                79 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 Thursday                 55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-Friday                   28 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Friday                   27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 Saturday                 126 commits         █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
 Sunday                   211 commits         ████████░░░░░░░░░░░░░░░░░   31.35 % 
 ```
@@ -71,17 +71,17 @@ Mac                      10 hrs 14 mins      ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Rust                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
 ```
 
 
 
 
- Last Updated on 15/09/2024 14:04:37 UTC
+ Last Updated on 16/09/2024 14:04:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
