@@ -10,13 +10,13 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C021%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-395.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 130.1 kB Used in GitHub's Storage 
+> 📦 130.2 kB Used in GitHub's Storage 
  > 
 > 🏆 211 Contributions in the Year 2024
  > 
@@ -53,19 +53,19 @@ Sunday                   211 commits         ███████░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   22 hrs 4 mins       █████████████████████░░░░   83.57 % 
-SQL                      2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-.env file                43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   29 hrs 37 mins      ██████████████████████░░░   87.57 % 
+SQL                      3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+.env file                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-PyCharm                  23 hrs 30 mins      ██████████████████████░░░   88.97 % 
-DataGrip                 2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+PyCharm                  30 hrs 25 mins      ██████████████████████░░░   89.97 % 
+DataGrip                 3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 
 💻 Operating System: 
-Mac                      19 hrs 51 mins      ███████████████████░░░░░░   75.19 % 
-Windows                  6 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Mac                      27 hrs 58 mins      █████████████████████░░░░   82.69 % 
+Windows                  5 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +81,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2024 14:05:06 UTC
+ Last Updated on 12/10/2024 14:04:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
