@@ -53,15 +53,13 @@ Sunday                   211 commits         ██████░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-SQL                      3 hrs 19 mins       ██████████████░░░░░░░░░░░   54.99 % 
-Python                   2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-DataGrip                 3 hrs 19 mins       ██████████████░░░░░░░░░░░   54.99 % 
-PyCharm                  2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -77,7 +75,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2024 14:05:51 UTC
+ Last Updated on 26/10/2024 14:05:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
