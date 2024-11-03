@@ -10,8 +10,6 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%2021%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-398.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -26,42 +24,6 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
  > 
 > 🔑 11 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-🌆 Daytime                429 commits         ████████████░░░░░░░░░░░░░   48.64 % 
-🌃 Evening                314 commits         █████████░░░░░░░░░░░░░░░░   35.60 % 
-🌙 Night                  25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Tuesday                  127 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Wednesday                130 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-Thursday                 98 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Friday                   83 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Saturday                 126 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Sunday                   211 commits         ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -75,7 +37,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2024 14:06:00 UTC
+ Last Updated on 03/11/2024 14:05:53 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
