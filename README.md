@@ -6,7 +6,9 @@ I look forward to interacting with fellow developers on GitHub, sharing knowledg
 </h3>
 
 **Profile Views**<br>
-<img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" theme="rule34" />
+<!-- <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" theme="rule34" /> -->
+<img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=asoul&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
+<img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=food&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
 
 
 <!--START_SECTION:waka-->
@@ -88,5 +90,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support Me:</h3>
 <p><a href="https://www.buymeacoffee.com/Baibaizi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Baibaizi" /></a></p><br><br>
