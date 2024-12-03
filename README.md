@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jingqi DOU</h1>
 <h3 align="left">
-As a student majoring in Information Technology at the Australian National University, I have a profound passion for software and front-end development. With a solid foundation in data structures and algorithms, coupled with proficiency in multiple programming languages and development tools, I am well-equipped to tackle diverse tasks efficiently. <br>
-Project management and teamwork are among my strong suits. I prioritize communication and collaboration to ensure smooth project progress. Through active engagement with team members and effective communication, I have successfully implemented numerous innovative solutions, demonstrating remarkable patience and efficiency.<br>
-I look forward to interacting with fellow developers on GitHub, sharing knowledge and experiences, and collectively enhancing our skillsets. Let's embark on this exciting journey of continuous learning and growth together.
+Highly motivated Bachelor of Information Technology graduate from the Australian National University, with practical experience in software and front-end development, currently honing skills in data structures, algorithms, and agile project management. <br>
+Creative and innovative professional with a proven ability to work effectively in team projects and deliver solutions autonomously according to project requirements. Proficient in multiple programming languages with additional expertise in user interface design and implementation. <br>
+Offering an organization in the software development sector an opportunity to engage the skills of a dedicated professional who will make a valuable contribution to its continued success and growth in a Software Developer role. Brings two years of part-time IT support experience, enhancing problem-solving abilities and customer service skills, ready to apply this blend of technical knowledge and practical experience to create impactful software solutions.
 </h3>
 
 **Profile Views**<br>
