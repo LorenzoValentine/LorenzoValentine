@@ -12,7 +12,7 @@ Offering an organization in the software development sector an opportunity to en
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C349%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C355%20hrs%2029%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-546.7%20thousand%20lines%20of%20code-blue)
 
@@ -20,7 +20,7 @@ Offering an organization in the software development sector an opportunity to en
 
 > 📦 146.2 kB Used in GitHub's Storage 
  > 
-> 🏆 372 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -55,18 +55,18 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   1 hr 6 mins         ████████████████████████░   96.55 % 
-.env file                2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   6 hrs 12 mins       ██████████████████████░░░   88.45 % 
+TypeScript               43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 9 mins         █████████████████████████   100.00 % 
+PyCharm                  4 hrs 48 mins       █████████████████░░░░░░░░   68.55 % 
+VS Code                  2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
 
 💻 Operating System: 
-Mac                      38 mins             ██████████████░░░░░░░░░░░   55.72 % 
-Windows                  30 mins             ███████████░░░░░░░░░░░░░░   44.28 % 
+Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -82,7 +82,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2024 14:04:50 UTC
+ Last Updated on 01/01/2025 14:05:22 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
