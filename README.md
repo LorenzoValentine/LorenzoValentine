@@ -12,9 +12,9 @@ Offering an organization in the software development sector an opportunity to en
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C375%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-421.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-422.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -31,21 +31,21 @@ Offering an organization in the software development sector an opportunity to en
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                173 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-🌆 Daytime                579 commits         █████████████░░░░░░░░░░░░   52.49 % 
-🌃 Evening                324 commits         ███████░░░░░░░░░░░░░░░░░░   29.37 % 
-🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+🌞 Morning                173 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+🌆 Daytime                583 commits         █████████████░░░░░░░░░░░░   52.62 % 
+🌃 Evening                325 commits         ███████░░░░░░░░░░░░░░░░░░   29.33 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Tuesday                  171 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Wednesday                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-Thursday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Friday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Saturday                 126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Sunday                   212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+Monday                   138 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Tuesday                  176 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+Wednesday                168 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Thursday                 136 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Friday                   152 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Saturday                 126 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Sunday                   212 commits         █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 ```
 
 
@@ -55,13 +55,14 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 50 mins       █████████████████████████   99.99 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +78,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2025 14:05:47 UTC
+ Last Updated on 14/01/2025 14:05:08 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
