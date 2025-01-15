@@ -12,7 +12,7 @@ Offering an organization in the software development sector an opportunity to en
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-422.2%20thousand%20lines%20of%20code-blue)
 
@@ -55,14 +55,18 @@ Sunday                   212 commits         █████░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               3 hrs 50 mins       █████████████████████████   99.99 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               11 hrs 6 mins       ███████████████████████░░   93.30 % 
+Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  11 hrs 8 mins       ███████████████████████░░   93.57 % 
+PyCharm                  45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 💻 Operating System: 
-Mac                      3 hrs 50 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -78,7 +82,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/01/2025 14:05:08 UTC
+ Last Updated on 15/01/2025 14:05:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
