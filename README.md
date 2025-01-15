@@ -9,7 +9,7 @@ Offering an organization in the software development sector an opportunity to en
 <!-- <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" theme="rule34" /> -->
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=asoul&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=food&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
-
+ 
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C387%20hrs%203%20mins-blue)
