@@ -12,13 +12,15 @@ Offering an organization in the software development sector an opportunity to en
  
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-233.2%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C722%20hrs%202%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-234.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 130.6 kB Used in GitHub's Storage 
  > 
-> 🏆 498 Contributions in the Year 2025
+> 🏆 506 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,6 +28,49 @@ Offering an organization in the software development sector an opportunity to en
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                242 commits         █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+🌆 Daytime                735 commits         ████████████████░░░░░░░░░   63.86 % 
+🌃 Evening                145 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+🌙 Night                  29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   134 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Tuesday                  214 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Wednesday                223 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Thursday                 189 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Friday                   231 commits         █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
+Saturday                 30 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Sunday                   130 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+TypeScript               14 hrs 4 mins       ██████████████░░░░░░░░░░░   54.54 % 
+Python                   5 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+JSON                     4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Batchfile                1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+SQL                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+
+🔥 Editors: 
+VS Code                  25 hrs 17 mins      █████████████████████████   98.01 % 
+DataGrip                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+💻 Operating System: 
+Mac                      16 hrs 5 mins       ████████████████░░░░░░░░░   62.32 % 
+Windows                  9 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.68 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -39,7 +84,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/03/2025 14:05:06 UTC
+ Last Updated on 28/03/2025 14:05:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
