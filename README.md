@@ -6,7 +6,6 @@ Offering an organization in the software development sector an opportunity to en
 </h3>
 
 **Profile Views**<br>
-<!-- <img src="https://count.getloli.com/get/@:name" alt="LorenzoValentine" theme="rule34" /> -->
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=asoul&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=food&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
  
