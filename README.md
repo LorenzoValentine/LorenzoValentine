@@ -12,6 +12,8 @@ Offering an organization in the software development sector an opportunity to en
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C137%20hrs%2052%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-321.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -26,6 +28,42 @@ Offering an organization in the software development sector an opportunity to en
  > 
 > 🔑 18 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                397 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
+🌆 Daytime                1011 commits        ████████████████░░░░░░░░░   63.99 % 
+🌃 Evening                144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
+🌙 Night                  28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Tuesday                  295 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Wednesday                352 commits         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
+Thursday                 259 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Friday                   294 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Saturday                 33 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Sunday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -39,7 +77,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 14:06:57 UTC
+ Last Updated on 01/08/2025 14:06:50 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
