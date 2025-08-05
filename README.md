@@ -12,15 +12,15 @@ Offering an organization in the software development sector an opportunity to en
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C137%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C140%20hrs%2012%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-324.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-324.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 139.3 kB Used in GitHub's Storage 
  > 
-> 🏆 1,612 Contributions in the Year 2025
+> 🏆 1,631 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,21 +31,21 @@ Offering an organization in the software development sector an opportunity to en
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                417 commits         ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-🌆 Daytime                1066 commits        ████████████████░░░░░░░░░   64.26 % 
-🌃 Evening                147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+🌞 Morning                417 commits         ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌆 Daytime                1084 commits        ████████████████░░░░░░░░░   64.64 % 
+🌃 Evening                147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+🌙 Night                  29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Tuesday                  311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Wednesday                370 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Thursday                 277 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Friday                   311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Saturday                 33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-Sunday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Monday                   227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Tuesday                  329 commits         █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
+Wednesday                370 commits         ██████░░░░░░░░░░░░░░░░░░░   22.06 % 
+Thursday                 277 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Friday                   311 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Saturday                 33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Sunday                   130 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 ```
 
 
@@ -55,13 +55,16 @@ Sunday                   130 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 55 mins        █████████████████████░░░░   82.72 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 2 mins        ██████████████████████░░░   87.52 % 
+Windows                  17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +80,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2025 14:08:18 UTC
+ Last Updated on 05/08/2025 14:08:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
