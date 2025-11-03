@@ -12,34 +12,34 @@ Offering an organization in the software development sector an opportunity to en
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 170.6 kB Used in GitHub's Storage 
+> 📦 187.0 kB Used in GitHub's Storage 
  > 
-> 🏆 3,152 Contributions in the Year 2025
+> 🏆 3,557 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 18 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
-**I Mostly Code in Python** 
+**I Mostly Code in TypeScript** 
 
 ```text
-Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-TypeScript               8 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Swift                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-FreeMarker               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Python                   9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Swift                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+FreeMarker               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 
 
 
 
- Last Updated on 02/11/2025 14:15:36 UTC
+ Last Updated on 03/11/2025 14:19:14 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
