@@ -5,6 +5,8 @@ Creative and innovative professional with a proven ability to work effectively i
 Offering an organization in the software development sector an opportunity to engage the skills of a dedicated professional who will make a valuable contribution to its continued success and growth in a Software Developer role. Brings two years of part-time IT support experience, enhancing problem-solving abilities and customer service skills, ready to apply this blend of technical knowledge and practical experience to create impactful software solutions. 
 </h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorenzoValentine)](https://github.com/anuraghazra/github-readme-stats)
+
 **Profile Views**<br>
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=asoul&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=food&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
