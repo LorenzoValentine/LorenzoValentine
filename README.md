@@ -55,15 +55,13 @@ Sunday                   129 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               35 mins             ██████████████████████░░░   88.31 % 
-CSS                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      40 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -79,7 +77,7 @@ FreeMarker               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025 14:06:44 UTC
+ Last Updated on 13/11/2025 14:06:45 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
