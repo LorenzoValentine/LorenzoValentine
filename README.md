@@ -28,42 +28,6 @@ Offering an organization in the software development sector an opportunity to en
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1161 commits        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-🌆 Daytime                3199 commits        █████████████████░░░░░░░░   66.29 % 
-🌃 Evening                425 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-🌙 Night                  41 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   784 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Tuesday                  1131 commits        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-Wednesday                1192 commits        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-Thursday                 843 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Friday                   666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Saturday                 81 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Sunday                   129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -77,7 +41,7 @@ FreeMarker               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 14:06:45 UTC
+ Last Updated on 14/11/2025 14:06:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
