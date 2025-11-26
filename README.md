@@ -12,7 +12,7 @@ Offering an organization in the software development sector an opportunity to en
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C597%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C604%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -55,17 +55,17 @@ Sunday                   129 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    3 hrs 58 mins       ████████████░░░░░░░░░░░░░   49.60 % 
-Python                   2 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-TypeScript               1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-HTML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+TypeScript               6 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.73 % 
+Other                    4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.85 % 
+Python                   3 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  8 hrs               █████████████████████████   100.00 % 
+VS Code                  14 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs               █████████████████████████   100.00 % 
+Mac                      14 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +81,7 @@ FreeMarker               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2025 14:06:52 UTC
+ Last Updated on 26/11/2025 14:07:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
