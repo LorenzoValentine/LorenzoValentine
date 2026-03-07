@@ -12,7 +12,7 @@ Offering an organization in the software development sector an opportunity to en
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C968%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C976%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.73%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,20 +55,20 @@ Sunday                   129 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   10 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   36.42 % 
-TypeScript               9 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.68 % 
-Image (svg)              2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-Markdown                 2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Python                   11 hrs 43 mins      ███████████░░░░░░░░░░░░░░   42.01 % 
+TypeScript               7 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Image (svg)              2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Other                    1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Markdown                 1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 27 mins      ███████████████████████░░   90.34 % 
-Figma                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-AdobePhotoshop2026       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+VS Code                  25 hrs 11 mins      ███████████████████████░░   90.26 % 
+Figma                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+AdobePhotoshop2026       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-Mac                      23 hrs 25 mins      █████████████████████░░░░   83.14 % 
-Windows                  4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Mac                      23 hrs 9 mins       █████████████████████░░░░   82.97 % 
+Windows                  4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +84,7 @@ FreeMarker               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/03/2026 14:16:15 UTC
+ Last Updated on 07/03/2026 14:08:12 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
