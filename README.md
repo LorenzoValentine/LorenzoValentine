@@ -12,7 +12,7 @@ Offering an organization in the software development sector an opportunity to en
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C097%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C097%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.96%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,17 +55,18 @@ Sunday                   129 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               33 hrs              ██████████████████░░░░░░░   71.83 % 
-Python                   5 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Other                    2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-Bash                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-HTML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+TypeScript               26 hrs 20 mins      ██████████████████░░░░░░░   70.17 % 
+Python                   4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Other                    2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Bash                     1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+HTML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-VS Code                  45 hrs 56 mins      █████████████████████████   100.00 % 
+VS Code                  37 hrs 22 mins      █████████████████████████   99.61 % 
+AdobePhotoshop2026       8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      45 hrs 56 mins      █████████████████████████   100.00 % 
+Mac                      37 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -81,7 +82,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/04/2026 14:19:51 UTC
+ Last Updated on 04/04/2026 14:14:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
