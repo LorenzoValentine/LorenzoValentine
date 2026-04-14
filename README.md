@@ -12,7 +12,7 @@ Offering an organization in the software development sector an opportunity to en
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C133%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C143%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,19 +55,22 @@ Sunday                   129 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               20 hrs 46 mins      ███████████████░░░░░░░░░░   59.28 % 
-Other                    3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-JSON                     3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Bash                     3 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-TOML                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+TypeScript               23 hrs 36 mins      █████████████░░░░░░░░░░░░   52.33 % 
+Other                    6 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+JSON                     4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+Bash                     3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Python                   2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 55 mins      ███████████████████████░░   91.08 % 
-Notion                   3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+VS Code                  35 hrs 55 mins      ████████████████████░░░░░   79.61 % 
+Notion                   3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Unknown Editor           2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Terminal                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Figma                    1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-Mac                      33 hrs 28 mins      ████████████████████████░   95.48 % 
-Windows                  1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Mac                      43 hrs 31 mins      ████████████████████████░   96.49 % 
+Windows                  1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,7 +86,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2026 14:38:27 UTC
+ Last Updated on 14/04/2026 14:39:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
