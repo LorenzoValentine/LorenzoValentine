@@ -12,7 +12,7 @@ Offering an organization in the software development sector an opportunity to en
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C161%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C168%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.99%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,21 +55,21 @@ Sunday                   129 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               14 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   33.39 % 
-Other                    13 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   30.15 % 
-Vue.js                   9 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
-Image (svg)              1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Bash                     1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+TypeScript               12 hrs 50 mins      ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+Other                    11 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+Vue.js                   10 hrs 39 mins      ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Vue                      2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Bash                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 39 mins      ██████████████░░░░░░░░░░░   56.95 % 
-Unknown Editor           9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Terminal                 3 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Notion                   2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Figma                    1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+VS Code                  27 hrs 38 mins      ████████████████░░░░░░░░░   63.48 % 
+Unknown Editor           9 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+Terminal                 3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Figma                    1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+Typora                   22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Mac                      43 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,7 +85,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2026 14:40:12 UTC
+ Last Updated on 17/04/2026 14:31:16 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
