@@ -12,15 +12,15 @@ Offering an organization in the software development sector an opportunity to en
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C230%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C238%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.20%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 184.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,031 Contributions in the Year 2026
+> 🏆 1,043 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -28,50 +28,6 @@ Offering an organization in the software development sector an opportunity to en
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1791 commits        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-🌆 Daytime                5011 commits        █████████████████░░░░░░░░   67.02 % 
-🌃 Evening                609 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-🌙 Night                  66 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1264 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
-Tuesday                  1598 commits        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
-Wednesday                1812 commits        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Thursday                 1461 commits        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-Friday                   1093 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Saturday                 120 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
-Sunday                   129 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-Vue                      15 hrs 39 mins      ███████████████░░░░░░░░░░   58.09 % 
-Other                    5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-TypeScript               4 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-JavaScript               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Bash                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 21 mins      ██████████████████░░░░░░░   71.81 % 
-Unknown Editor           3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Typora                   2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-Terminal                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Notion                   51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-
-💻 Operating System: 
-Mac                      26 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -85,7 +41,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2026 14:48:02 UTC
+ Last Updated on 01/05/2026 14:29:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
