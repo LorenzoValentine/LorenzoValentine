@@ -54,6 +54,8 @@ hobbies:
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=asoul&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=food&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
 
+<br><br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=LorenzoValentine&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6FA3&fire=FF6FA3&currStreakLabel=FF6FA3" alt="GitHub Streak" />
 
 <br><br>
