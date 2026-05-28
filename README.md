@@ -1,15 +1,71 @@
-<h1 align="center">Hi 👋, I'm Jingqi DOU</h1>
-<h3 align="left">
-Highly motivated Bachelor of Information Technology graduate from the Australian National University, with practical experience in software and front-end development, currently honing skills in data structures, algorithms, and agile project management. <br>
-Creative and innovative professional with a proven ability to work effectively in team projects and deliver solutions autonomously according to project requirements. Proficient in multiple programming languages with additional expertise in user interface design and implementation. <br>
-Offering an organization in the software development sector an opportunity to engage the skills of a dedicated professional who will make a valuable contribution to its continued success and growth in a Software Developer role. Brings two years of part-time IT support experience, enhancing problem-solving abilities and customer service skills, ready to apply this blend of technical knowledge and practical experience to create impactful software solutions. 
-</h3>
+<div align="center">
 
-**Profile Views**<br>
+<!-- 顶部动态横幅 -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/automeapan/automeapan/main/Header.gif" alt="header" />
+  
+  <h1>
+    ✨ Hi there! I'm Jingqi ✨
+  </h1>
+</div>
+
+<!-- 打字机效果 -->
+<a href="https://github.com/LorenzoValentine">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6FA3&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Full-Stack+Developer+%E2%9C%A8;%F0%9F%8C%B8+UI%2FUX+Enthusiast+%F0%9F%8C%B8;%F0%9F%8E%AE+Anime+%26+Tech+Lover+%F0%9F%8E%AE;%F0%9F%93%B8+Photography+Hobbyist+%F0%9F%93%B8" alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- 装饰性 GIF -->
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100" />
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
+```yaml
+name: "Jingqi DOU"
+pronouns: "He/Him"
+education: "B.IT @ Australian National University"
+location: "🇦🇺 New South Wales, Australia"
+current_focus:
+  - "🌐 Full-Stack Development"
+  - "🎨 UI/UX Design & Motion Design"
+  - "📊 Data Structures & Algorithms"
+  - "🚀 Agile Project Management"
+hobbies:
+  - "📷 Photography"
+  - "✈️ Travel"
+  - "🐱 Anime"
+```
+
+<br clear="right"/>
+
+> 💫 *Highly motivated **Bachelor of Information Technology** graduate from the **Australian National University**, with hands-on experience in **software and front-end development**. Creative, detail-oriented, and passionate about crafting **impactful software solutions** with elegant interfaces.*
+
+---
+
+<div align="center">
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=asoul&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
 <img src="https://count.getloli.com/@LorenzoValentine?name=LorenzoValentine&theme=food&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto&prefix=020315" alt="LorenzoValentine" theme="rule34" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=LorenzoValentine&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6FA3&fire=FF6FA3&currStreakLabel=FF6FA3" alt="GitHub Streak" />
+
+<br><br>
+
+<!-- 活跃度图表 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LorenzoValentine&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6FA3&line=FF6FA3&point=ffffff&area=true&area_color=FF6FA3" alt="Activity Graph" />
+
+</div>
+
+---
+
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C362%20hrs%209%20mins-blue?style=flat)
