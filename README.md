@@ -113,19 +113,19 @@ Sunday                   170 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               1 hr 47 mins        ████████████░░░░░░░░░░░░░   48.53 % 
-Bash                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-JSON                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Other                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Bash                     51 mins             ██████████░░░░░░░░░░░░░░░   38.35 % 
+JSON                     41 mins             ████████░░░░░░░░░░░░░░░░░   30.65 % 
+TypeScript               20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Other                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 22 mins       ███████████████████████░░   91.31 % 
-Terminal                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+VS Code                  1 hr 54 mins        █████████████████████░░░░   85.63 % 
+Terminal                 19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 
 💻 Operating System: 
-Mac                      2 hrs 50 mins       ███████████████████░░░░░░   76.81 % 
-Windows                  51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Mac                      1 hr 22 mins        ███████████████░░░░░░░░░░   61.65 % 
+Windows                  51 mins             ██████████░░░░░░░░░░░░░░░   38.35 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +141,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 15:02:33 UTC
+ Last Updated on 26/07/2026 15:05:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
