@@ -70,9 +70,9 @@ hobbies:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C514%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C519%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-587%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-591%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.03%20million%20lines%20of%20code-blue?style=flat)
 
@@ -115,42 +115,42 @@ Sunday                   170 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               11 hrs 35 mins      █████████████░░░░░░░░░░░░   51.69 % 
-JSON                     3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-CSS                      2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Other                    1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Python                   1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+TypeScript               13 hrs 33 mins      ████████████░░░░░░░░░░░░░   47.86 % 
+JSON                     3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+CSS                      3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Other                    3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Python                   1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 38 mins      ████████████████████████░   96.47 % 
-Figma                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-Typora                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-AdobeIllustrator2026     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  26 hrs 38 mins      ████████████████████████░   94.10 % 
+Typora                   56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Figma                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+AdobeIllustrator2026     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Mac                      22 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 15 mins (90.28%)
+⏱ AI Coding Time: 24 hrs 53 mins (87.91%)
 
-✍️ 18,304 lines written by AI, 26 lines written by hand (99.86% AI-written)
+✍️ 22,017 lines written by AI, 28 lines written by hand (99.87% AI-written)
 
-🔤 251,382,944 Input Tokens, 926,151 Output Tokens
+🔤 297,726,250 Input Tokens, 1,117,579 Output Tokens
 
-💵 $1275.66 Estimated AI Cost This Week
+💵 $1511.70 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 294 AI Prompts
+🧠 31 AI Sessions, 349 AI Prompts
 
-GPT                      20,970 lines        █████████████████████████   100.00 % 
+GPT                      24,912 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 3,516 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 9.56% of changed lines were hand-edited
+🤖 AI-Driven — 99.87% of written lines came from AI
+📚 Verbose Prompter — average 3,774 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 8.18% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -166,7 +166,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 16:04:06 UTC
+ Last Updated on 01/08/2026 15:00:46 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
