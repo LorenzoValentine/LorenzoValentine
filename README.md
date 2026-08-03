@@ -129,29 +129,6 @@ AdobeIllustrator2026     1 min               ░░░░░░░░░░░�
 
 💻 Operating System: 
 Mac                      28 hrs 19 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 24 hrs 53 mins (87.91%)
-
-✍️ 22,017 lines written by AI, 28 lines written by hand (99.87% AI-written)
-
-🔤 297,726,250 Input Tokens, 1,117,579 Output Tokens
-
-💵 $1511.70 Estimated AI Cost This Week
-
-🧠 31 AI Sessions, 349 AI Prompts
-
-GPT                      24,912 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 3,774 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 8.18% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
