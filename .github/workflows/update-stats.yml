@@ -20,3 +20,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           LOCALE: "en"
+          SHOW_AI_CODING: "False"
