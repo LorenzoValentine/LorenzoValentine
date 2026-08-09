@@ -88,6 +88,47 @@ hobbies:
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2316 commits        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+🌆 Daytime                6290 commits        ████████████████░░░░░░░░░   65.51 % 
+🌃 Evening                882 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+🌙 Night                  114 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1785 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Tuesday                  1954 commits        █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Wednesday                2101 commits        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Thursday                 1854 commits        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Friday                   1456 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Saturday                 269 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Sunday                   183 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+TypeScript               11 hrs 52 mins      ███████████░░░░░░░░░░░░░░   44.43 % 
+Python                   5 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+JSON                     4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+SQL                      2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+
+🔥 Editors: 
+VS Code                  26 hrs 37 mins      █████████████████████████   99.58 % 
+Typora                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+
+💻 Operating System: 
+Mac                      26 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -101,7 +142,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 14:32:23 UTC
+ Last Updated on 09/08/2026 14:34:03 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
