@@ -88,6 +88,50 @@ hobbies:
  > 
 > 🔑 24 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2202 commits        ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+🌆 Daytime                5886 commits        ████████████████░░░░░░░░░   65.71 % 
+🌃 Evening                779 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+🌙 Night                  90 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1599 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Tuesday                  1848 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Wednesday                2042 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Thursday                 1751 commits        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Friday                   1365 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Saturday                 195 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Sunday                   157 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+TypeScript               8 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.54 % 
+Other                    7 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.26 % 
+Python                   3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+SQL                      1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+
+🔥 Editors: 
+Codex Vscode             15 hrs 49 mins      ██████████████████░░░░░░░   70.43 % 
+VS Code                  3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Typora                   1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Notion                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Terminal                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+
+💻 Operating System: 
+Mac                      22 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -101,7 +145,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 14:22:14 UTC
+ Last Updated on 16/08/2026 14:22:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
