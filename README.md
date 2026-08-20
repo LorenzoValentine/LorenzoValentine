@@ -115,20 +115,20 @@ Sunday                   157 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               5 hrs 33 mins       ██████████████░░░░░░░░░░░   54.64 % 
-Python                   2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
-Other                    1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TypeScript               3 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.71 % 
+Python                   2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+Other                    1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-Codex Vscode             6 hrs 34 mins       ████████████████░░░░░░░░░   64.63 % 
-VS Code                  1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
-Typora                   1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
-Terminal                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Codex Vscode             5 hrs 19 mins       ████████████████░░░░░░░░░   65.71 % 
+VS Code                  1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Typora                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Terminal                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 💻 Operating System: 
-Mac                      10 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +144,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 14:32:54 UTC
+ Last Updated on 20/08/2026 14:35:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
