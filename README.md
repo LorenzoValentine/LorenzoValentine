@@ -115,20 +115,19 @@ Sunday                   157 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               3 hrs 52 mins       ████████████░░░░░░░░░░░░░   47.71 % 
-Python                   2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-Other                    1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
-SQL                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+TypeScript               2 hrs 12 mins       ███████████████░░░░░░░░░░   59.08 % 
+Python                   53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 19 mins       ████████████████░░░░░░░░░   65.71 % 
-VS Code                  1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-Typora                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-Terminal                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Codex Vscode             2 hrs 19 mins       ████████████████░░░░░░░░░   62.19 % 
+Typora                   50 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+VS Code                  33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
 
 💻 Operating System: 
-Mac                      8 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +143,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 14:35:55 UTC
+ Last Updated on 21/08/2026 14:34:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
