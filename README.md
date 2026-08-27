@@ -88,43 +88,6 @@ hobbies:
  > 
 > 🔑 24 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2254 commits        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-🌆 Daytime                6061 commits        ████████████████░░░░░░░░░   65.51 % 
-🌃 Evening                836 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-🌙 Night                  101 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1686 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Tuesday                  1897 commits        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-Wednesday                2068 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Thursday                 1784 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Friday                   1415 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Saturday                 232 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Sunday                   170 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-TypeScript               1 min               █████████████░░░░░░░░░░░░   50.08 % 
-JSON                     1 min               ████████████░░░░░░░░░░░░░   49.92 % 
-
-🔥 Editors: 
-Codex Vscode             3 mins              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -138,7 +101,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 14:44:01 UTC
+ Last Updated on 27/08/2026 23:37:31 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
