@@ -115,21 +115,21 @@ Sunday                   189 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               20 hrs 58 mins      █████████████████░░░░░░░░   66.46 % 
-Other                    9 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.28 % 
-JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TypeScript               20 hrs 58 mins      █████████████████░░░░░░░░   68.90 % 
+Other                    8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Codex Vscode             22 hrs 58 mins      ██████████████████░░░░░░░   72.77 % 
-VS Code                  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-LMStudio                 3 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Terminal                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-AdobeIllustrator2026     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Codex Vscode             21 hrs 51 mins      ██████████████████░░░░░░░   71.78 % 
+VS Code                  3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+LMStudio                 3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Terminal                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+AdobeIllustrator2026     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 💻 Operating System: 
-Mac                      31 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +145,7 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 18:01:47 UTC
+ Last Updated on 05/10/2026 21:25:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
