@@ -70,83 +70,34 @@ hobbies:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C780%20hrs%2049%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-848%20hrs%2054%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.08%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.79%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 282.5 kB Used in GitHub's Storage 
+> 📦 565.2 kB Used in GitHub's Storage 
  > 
-> 🏆 2,523 Contributions in the Year 2026
+> 🏆 2,611 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 26 Private Repositories 
+> 🔑 27 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2568 commits        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-🌆 Daytime                6777 commits        ████████████████░░░░░░░░░   64.94 % 
-🌃 Evening                984 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-🌙 Night                  107 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1893 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Tuesday                  2089 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-Wednesday                2264 commits        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Thursday                 2110 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Friday                   1627 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-Saturday                 260 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Sunday                   193 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-TypeScript               10 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   32.74 % 
-Other                    8 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-Python                   4 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-SQL                      3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Text                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-
-🔥 Editors: 
-Codex Vscode             16 hrs 58 mins      ██████████████░░░░░░░░░░░   54.14 % 
-VS Code                  11 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   37.69 % 
-Typora                   1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Terminal                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-LMStudio                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-
-💻 Operating System: 
-Mac                      31 hrs 3 mins       █████████████████████████   99.03 % 
-Windows                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               19 repos            ██████████░░░░░░░░░░░░░░░   39.58 % 
-Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-FreeMarker               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+TypeScript               20 repos            ██████████░░░░░░░░░░░░░░░   40.82 % 
+Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+FreeMarker               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
 
 
 
 
- Last Updated on 01/11/2026 18:48:05 UTC
+ Last Updated on 11/11/2026 23:56:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
