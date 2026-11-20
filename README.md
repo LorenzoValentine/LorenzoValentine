@@ -70,17 +70,17 @@ hobbies:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C843%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C847%20hrs%2055%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-898%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-901%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.34%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 675.7 kB Used in GitHub's Storage 
+> 📦 676.1 kB Used in GitHub's Storage 
  > 
-> 🏆 2,927 Contributions in the Year 2026
+> 🏆 2,944 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,50 +88,6 @@ hobbies:
  > 
 > 🔑 29 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2733 commits        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-🌆 Daytime                7200 commits        ████████████████░░░░░░░░░   65.09 % 
-🌃 Evening                1021 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-🌙 Night                  107 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   2010 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Tuesday                  2172 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Wednesday                2368 commits        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
-Thursday                 2317 commits        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-Friday                   1738 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Saturday                 260 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-Sunday                   196 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-TypeScript               4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-Image (svg)              4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-CSS                      2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Python                   2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Other                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-
-🔥 Editors: 
-Codex Vscode             8 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.47 % 
-Figma                    5 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   34.25 % 
-VS Code                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Terminal                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Typora                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-
-💻 Operating System: 
-Mac                      17 hrs 9 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -145,7 +101,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 22:02:52 UTC
+ Last Updated on 20/11/2026 21:44:37 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
