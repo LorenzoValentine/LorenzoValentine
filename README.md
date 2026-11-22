@@ -115,21 +115,21 @@ Sunday                   196 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-TypeScript               9 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   33.92 % 
-Other                    5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-Image (svg)              4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-SQL                      2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-CSS                      2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+TypeScript               9 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   34.08 % 
+Other                    4 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+Image (svg)              4 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+SQL                      2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+CSS                      2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   37.00 % 
-VS Code                  8 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-Figma                    6 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Typora                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Terminal                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Codex Vscode             10 hrs 54 mins      █████████░░░░░░░░░░░░░░░░   37.18 % 
+VS Code                  8 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+Figma                    6 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+Typora                   2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Terminal                 1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 
 💻 Operating System: 
-Mac                      29 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +145,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2026 20:24:59 UTC
+ Last Updated on 22/11/2026 20:38:10 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lorenzoval2050)](https://github.com/anuraghazra/github-readme-stats) -->
